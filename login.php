@@ -8,7 +8,6 @@
 <body>
     <p>haii, ini diedit oelh akun reifan19</p>
 
-
     <p>real akun reifan19</p>
     <p>yaaa</p>
     <p>bee</p>
@@ -18,7 +17,18 @@
 
     <p>tes reian1909</p>
 
+
+
+    <p>edit pakai laptop fauzan</p>
+
+    <p>edit pakai laptop fauzan2</p>
+
     <h1>fauzan2</h1>
 
 </body>
+
+
+
+    
+
 </html>
